@@ -22,7 +22,7 @@
                <licence>This eBook is for the use of anyone anywhere at no cost and with almost no
                   restrictions whatsoever. You may copy it, give it away or re-use it under the
                   terms of the Project Gutenberg License included with this eBook or online at
-                  www.gutenberg.org/license </licence>               
+                  www.gutenberg.org/license </licence>
             </availability>
             <ref>https://www.gutenberg.org/ebooks/63107</ref>
             <distributor>Hathi Trust: page images</distributor>
@@ -41,7 +41,6 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-
          <projectDesc>
             <p>This encoded file was created by Diane Jakacki and made available for a Linked
                Editing Academic Framework (LEAF) / LEAF-Writer workshop. This file is not meant for
@@ -53,9 +52,9 @@
       <body>
 
          <div>
-            <pb n="20" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_01.jpg"/>
+            <pb cert="high" xml:space="default" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_01.jpg" n="20"/>
 
-            <head>MRS DALLOWAY IN BOND STREET</head>
+            <head><title level="m">MRS DALLOWAY IN BOND STREET</title></head>
             <byline>BY VIRGINIA WOOLF</byline>
 
 
@@ -94,38 +93,36 @@
             <p>"Out of sorts," said Hugh Whitbread. "That sort of thing. Dick all right?"</p>
             <p>"First rate!" said Clarissa.</p>
             <p>Of course, she thought, walking on, Milly is about my age—fifty—fifty-two. So it is
-               probably that, Hugh's manner had said so, said it perfectly—dear old Hugh,
-               thought Mrs Dalloway, remembering with amusement, with gratitude, with emotion, how
-               shy, like a brother—one would rather die than speak to one's brother—Hugh had always
-               been, when he was at Oxford, and came over, and perhaps one of them (drat the thing!)
-               couldn't ride. How then could women sit in Parliament? How could they do things with
-               men? For there is this extraordinarily deep instinct, something inside one; you can't
-               get over it; it's no use trying; and men like Hugh respect it without our saying it,
-               which is what one loves, thought Clarissa, in dear old Hugh.</p>
+               probably that, Hugh's manner had said so, said it perfectly—dear old Hugh, thought
+               Mrs Dalloway, remembering with amusement, with gratitude, with emotion, how shy, like
+               a brother—one would rather die than speak to one's brother—Hugh had always been, when
+               he was at Oxford, and came over, and perhaps one of them (drat the thing!) couldn't
+               ride. How then could women sit in Parliament? How could they do things with men? For
+               there is this extraordinarily deep instinct, something inside one; you can't get over
+               it; it's no use trying; and men like Hugh respect it without our saying it, which is
+               what one loves, thought Clarissa, in dear old Hugh.</p>
             <p>She had passed through the Admiralty Arch and saw at the end of the empty road with
                its thin trees Victoria's white mound, Victoria's billowing motherliness, amplitude
                and homeliness, always ridiculous, yet how sublime, thought Mrs Dalloway, remembering
-                and the old lady in horn spectacles and being told by Nanny to
-               stop dead still and bow to the Queen. The flag flew above the Palace. The King and
-               Queen were back then. Dick had met her at lunch the other day—a thoroughly nice
-               woman. It matters so much to the poor, thought Clarissa, and to the soldiers. A man
-               in bronze stood heroically on a pedestal with a gun on her left hand side—the South African war. It matters, thought Mrs Dalloway walking towards Buckingham Palace.
-               There it stood four-square, in the broad sunshine, uncompromising, plain. But it was
-               character she thought; something inborn in the race; what Indians respected. The
-               Queen went to hospitals, opened bazaars—the Queen of England, thought Clarissa,
-               looking at the Palace. Already at this hour a motor car passed out at the gates;
-               soldiers saluted; the gates were shut. And Clarissa, crossing the road, entered the
-               Park, holding herself upright.</p>
-            <p>June had drawn out every leaf on the trees. The mothers of <pb cert="high" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_03.jpg" xml:space="default" n="220000"/>
-               Westminster with mottled
-               breasts gave suck to their young. Quite respectable girls lay stretched on the grass.
-               An elderly man, stooping very stiffly, picked up a crumpled paper, spread it out flat
-               and flung it away. How horrible! Last night at the Embassy Sir Dighton had said "If I
-               want a fellow to hold my horse, I have only to put up my hand." But the religious
-               question is far more serious than the economic, Sir Dighton had said, which she
-               thought extraordinarily interesting, from a man like Sir Dighton. "Oh, the country
-               will never know what it has lost" he had said, talking, of his own accord, about dear
-               Jack Stewart.</p>
+               and the old lady in horn spectacles and being told by Nanny to stop dead still and
+               bow to the Queen. The flag flew above the Palace. The King and Queen were back then.
+               Dick had met her at lunch the other day—a thoroughly nice woman. It matters so much
+               to the poor, thought Clarissa, and to the soldiers. A man in bronze stood heroically
+               on a pedestal with a gun on her left hand side—the South African war. It matters,
+               thought Mrs Dalloway walking towards Buckingham Palace. There it stood four-square,
+               in the broad sunshine, uncompromising, plain. But it was character she thought;
+               something inborn in the race; what Indians respected. The Queen went to hospitals,
+               opened bazaars—the Queen of England, thought Clarissa, looking at the Palace. Already
+               at this hour a motor car passed out at the gates; soldiers saluted; the gates were
+               shut. And Clarissa, crossing the road, entered the Park, holding herself upright.</p>
+            <p>June had drawn out every leaf on the trees. The mothers of <pb n="22" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_03.jpg"/> Westminster with mottled breasts gave suck to their young. Quite respectable girls
+               lay stretched on the grass. An elderly man, stooping very stiffly, picked up a
+               crumpled paper, spread it out flat and flung it away. How horrible! Last night at the
+               Embassy Sir Dighton had said "If I want a fellow to hold my horse, I have only to put
+               up my hand." But the religious question is far more serious than the economic, Sir
+               Dighton had said, which she thought extraordinarily interesting, from a man like Sir
+               Dighton. "Oh, the country will never know what it has lost" he had said, talking, of
+               his own accord, about dear Jack Stewart.</p>
             <p>She mounted the little hill lightly. The air stirred with energy. Messages were
                passing from the Fleet to the Admiralty. Piccadilly and Arlington Street and the Mall
                seemed to chafe the very air in the Park and lift its leaves hotly, brilliantly, upon
@@ -137,7 +134,7 @@
                now can never mourn—how did it go?—a head grown grey. . . . From the contagion of the
                world's slow stain . . . have drunk their cup a round or two before. . . . From the
                contagion of the world's slow stain! She held herself upright.</p>
-            
+
             <p>Omnibuses joined motor cars; motor cars vans; vans taxicabs; taxicabs motor cars—here
                was an open motor car with a girl, alone. Up till four, her feet tingling, I know,
                thought Clarissa, for the girl looked washed out, half asleep, in the corner of the
@@ -151,19 +148,17 @@
                narrow crooked street, the yellow banners; the thick notched telegraph wires
                stretched across the sky.</p>
             <p>A hundred years ago her great-great-grandfather, Seymour Parry, who ran away with
-               Conway's daughter, had walked down Bond <pb n="24" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_05.jpg"/>
-               Street. Down Bond Street the Parrys had
-               walked for a hundred years, and might have met the Dalloways (Leighs on the mother's
-               side) going up. Her father got his clothes from Hill's. There was a roll of cloth in
-               the window, and here just one jar on a black table, incredibly expensive; like the
-               thick pink salmon on the ice block at the fishmonger's. The jewels were
-               exquisite—pink and orange stars, paste, Spanish, she thought, and chains of old gold;
-               starry buckles, little brooches which had been worn on sea green satin by ladies with
-               high head-dresses. But no good looking! One must economize. She must go on past the
-               picture dealer's where one of the odd French pictures hung, as if people had thrown
-               confetti—pink and blue—for a joke. If you had lived with pictures (and it's the same
-               with books and music) thought Clarissa, passing the Aeolian Hall, you can't be taken
-               in by a joke.</p>
+               Conway's daughter, had walked down Bond <pb n="24" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_05.jpg"/> Street. Down Bond Street the Parrys had walked for a hundred years, and might have
+               met the Dalloways (Leighs on the mother's side) going up. Her father got his clothes
+               from Hill's. There was a roll of cloth in the window, and here just one jar on a
+               black table, incredibly expensive; like the thick pink salmon on the ice block at the
+               fishmonger's. The jewels were exquisite—pink and orange stars, paste, Spanish, she
+               thought, and chains of old gold; starry buckles, little brooches which had been worn
+               on sea green satin by ladies with high head-dresses. But no good looking! One must
+               economize. She must go on past the picture dealer's where one of the odd French
+               pictures hung, as if people had thrown confetti—pink and blue—for a joke. If you had
+               lived with pictures (and it's the same with books and music) thought Clarissa,
+               passing the Aeolian Hall, you can't be taken in by a joke.</p>
             <p>The river of Bond Street was clogged. There, like a Queen at a tournament, raised,
                regal, was Lady Bexborough. She sat in her carriage, upright, alone, looking through
                her glasses. The white glove was loose at her wrist. She was in black, quite shabby,
@@ -184,13 +179,12 @@
                "These really don't fit" said Clarissa. The shop girl looked at them. "Madame wears
                bracelets?" Clarissa spread out her fingers. "Perhaps it's my rings." And the girl
                took the grey gloves with her to the end of the counter.</p>
-            <p>Yes, thought Clarissa, if it's the girl I remember she's twenty <pb n="25" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_06.jpg"/>
-               years older. . . .
-               There was only one other customer, sitting sideways at the counter, her elbow poised,
-               her bare hand drooping, vacant; like a figure on a Japanese fan, thought Clarissa,
-               too vacant perhaps, yet some men would adore her. The lady shook her head sadly.
-               Again the gloves were too large. She turned round the glass. "Above the wrist" she
-               reproached the grey-headed woman; who looked and agreed.</p>
+            <p>Yes, thought Clarissa, if it's the girl I remember she's twenty <pb n="25" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_06.jpg"/> years older. . . . There was only one other customer, sitting sideways at the
+               counter, her elbow poised, her bare hand drooping, vacant; like a figure on a
+               Japanese fan, thought Clarissa, too vacant perhaps, yet some men would adore her. The
+               lady shook her head sadly. Again the gloves were too large. She turned round the
+               glass. "Above the wrist" she reproached the grey-headed woman; who looked and
+               agreed.</p>
             <p>They waited; a clock ticked; Bond Street hummed, dulled, distant; the woman went away
                holding gloves. "Above the wrist" said the lady, mournfully, raising her voice. And
                she would have to order chairs, ices, flowers, and cloak-room tickets, thought

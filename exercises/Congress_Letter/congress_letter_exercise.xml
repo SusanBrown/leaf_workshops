@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -47,13 +46,12 @@
 	</teiHeader>
 	<text>
 		<body>
-			<pb
-				facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/Congress_Letter/congress_letter_image1.jpg"/>
+			<pb facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/Congress_Letter/congress_letter_image1.jpg"/>
 
 			<opener>To the Honorable the Senate and House of Representatives of the United States in
 				Congress Assembled:</opener>
 			<p>The undersigned, Citisens of the United States, believing that under the present
-					Federal Constitution all women who are citisens of the United States have the
+					Federal Constitution all women who are citisens of the <placeName>United States</placeName> have the
 					right to vote, pray your Honorable Body to
 				enact a law during the present session that shall assist and protect them in the exercise of that
 					right
